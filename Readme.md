@@ -51,7 +51,7 @@ setx OPENAI_API_KEY "your_api_key_here"
 ```bash
 streamlit run app.py
 ```
-### 5. Othersettings
+### 5. Other settings
  - Keep threshold = 0.5
  - SBERT+HDBSCAN is optional (Trying semantic based algorithm for results)
  - Only textclust was the requirement
